@@ -1,5 +1,5 @@
 # Automatic-Herbal-Plant-Detection
-An automatic herbal plant detection system that leverages Convolutional Neural Networks (CNNs) and a Flutter + PHP backend architecture to accurately identify medicinal plants from images. This project aims to support healthcare, research, and education by providing quick and reliable identification of herbal plants along with their medicinal uses. 
+An automatic herbal plant detection system that leverages Convolutional Neural Networks (CNNs) ie ResNet50 and a Flutter + PHP backend architecture to accurately identify medicinal plants from images. This project aims to support healthcare, research, and education by providing quick and reliable identification of herbal plants along with their medicinal uses. 
 # Project Overview
 Identifying medicinal plants traditionally requires specialized knowledge and expertise. Misidentification can lead to health risks if toxic plants are mistaken for useful ones. This project automates plant identification by combining:
 Image Upload & Detection (Flutter frontend)
